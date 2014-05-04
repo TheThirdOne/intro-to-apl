@@ -9,3 +9,6 @@
   * [Arithmetic](arithmetic.md)
   * [Vectors](vectors.md)
   * [Boolean Operators](booleans.md)
+* [Extras](extras.md)
+  * [Dialects](dialects.md)
+  * [Reference](reference.md)
