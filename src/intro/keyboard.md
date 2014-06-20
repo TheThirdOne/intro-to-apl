@@ -3,7 +3,7 @@ Keyboard
 
 APL was made as an extension/revision of traditional mathmatical notation, and, as a result, has a very special character set that it uses.
 
-![IBM typeball](img/ibm_selectric_globe.jpg "IBM Selectric globe samples (plus two Euro coin to compare size)")
+![IBM typeball](../img/ibm_selectric_globe.jpg "IBM Selectric globe samples (plus two Euro coin to compare size)")
 
 Some of the same challenges that existed during its creation remain to this day. Making a keyboard logically enter the special characters is impossible. However, via entering unicode code point such as `U+223C` or by using a custom keyboard that maps modified keys like ctrl-alt-K to a special value.
 
