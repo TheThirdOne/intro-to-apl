@@ -8,7 +8,7 @@ APL is a [declarative language](http://en.wikipedia.org/wiki/Declarative_program
 
 Who this is for
 ---------------
-This book is aimed at people with a moderate math background and know at least one imperitive programming language. Neither of these is a strict requirement, but [insert here].
+This book is aimed at people with a moderate math background and know at least one imperitive programming language. Neither of these is a strict requirement, but without them, this book will be significantly harder to work through.
 
 Why learn APL
 -------------
@@ -20,6 +20,6 @@ Why learn APL
 How to learn APL
 ----------------
 
-The pacing you decide to take on this book is entirely up to you. 
+The pacing you decide to take on this book is entirely up to you.
 
 
